@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Task to Vamsi Krishna
+### 1. Create docker file
+### 2. Write script in docker file
+### 3. If I run docker command, project has to execute
+### 4. download jenkins in your local
+### 5. Create jenkins file
+### 6. Write jenkins script in jenkins file
+### 7. Create fork so that If any changes are merged to dev branch, project has to compile and run
